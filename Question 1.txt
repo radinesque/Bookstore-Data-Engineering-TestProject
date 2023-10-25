@@ -1,0 +1,7 @@
+Answer for Question 1 - Describe a Data Engineer role in an organisation and its main responsibilities
+
+Data Engineer's Role 
+Ensures that data is collected, stored, processed, and made accessible to data analysts and data scientists for various analytical and reporting purposes.
+
+Main Responsibilities
+Revolve around data management, data transformation, data pipeline development, data modeling, and ensuring data availability, security, and compliance. A vital role in supporting data-driven decision-making within an organization and are instrumental in maintaining a robust data infrastructure.
