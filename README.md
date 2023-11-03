@@ -1,2 +1,4 @@
-# Radin-Kotak-Sakti-Data-Engineering
-Kotak Sakti Data Engineering Assessment
+# Bookstore-Data-Engineering-TestProject
+
+Open the PDF file for the questions
+
