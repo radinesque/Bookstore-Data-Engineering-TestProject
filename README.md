@@ -28,31 +28,13 @@ To run the Python script and execute the SQL queries, you'll need the following:
 - The `mysql-connector-python` Python library (installable via `pip`)
 - A basic understanding of SQL and Python
 
-## File Structure
-
-The project's file structure is organized as follows:
-
-- `/SQL`: Contains SQL queries for the data engineering tasks.
-- `/Python`: Contains the Python script for data extraction and ingestion.
-- `README.md`: This documentation.
-- `LICENSE`: The project's license file.
-
 ## Usage
 
 You can use this project to practice data engineering tasks, learn SQL, and work on Python data ingestion and extraction. To get started:
 
-1. Set up a MySQL database and import the dataset from "Appendix A."
-2. Review the provided SQL queries in the `/SQL` directory to understand the tasks.
-3. Run the Python script in the `/Python` directory to perform data ingestion and extraction tasks.
-
-## SQL Queries
-
-- `question2.sql`: SQL queries for data extraction tasks related to customers and their purchases.
-- `question3.sql`: SQL queries for data extraction tasks based on the provided dataset.
-
-## Python Script
-
-- `data_ingestion.py`: A Python script for data extraction and ingestion from the provided dataset.
+1. Set up a MySQL database and import the dataset from "customer.csv", "invoices.csv", and "invoice_lines.csv"
+2. Review the provided SQL queries to understand the tasks.
+3. Run the Python script using "Notebook" to perform data ingestion and extraction tasks.
 
 ## License
 
