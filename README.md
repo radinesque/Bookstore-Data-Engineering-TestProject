@@ -32,7 +32,7 @@ To run the Python script and execute the SQL queries, you'll need the following:
 
 You can use this project to practice data engineering tasks, learn SQL, and work on Python data ingestion and extraction. To get started:
 
-1. Set up a MySQL database and import the dataset from 'customer.csv', 'invoices.csv', and 'invoice_lines.csv'
+1. Set up a MySQL database and import the dataset from `customers.csv`, `invoices.csv`, and `invoice_lines.csv`
 2. Review the provided SQL queries to understand the tasks.
 3. Run the Python script using "Notebook" to perform data ingestion and extraction tasks.
 
